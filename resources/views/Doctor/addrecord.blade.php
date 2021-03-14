@@ -23,7 +23,7 @@
                     <a href="/Doctor/AllPatientRecords/{{$patient->id}}" class="btn btn-primary col-md-10">Records</a>
                     <a href="/Doctor/AllPatientReports/{{$patient->id}}" class="btn btn-primary col-md-10 mt-2">Reports</a>
                     </div>
-                    <br><br>
+                    <br><br> //test
             </div>
         </div>
         <div class="col-md-7 float-right p-3">
