@@ -23,7 +23,7 @@
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light site-navbar-target" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html">eClinic</a>
+	      <a class="navbar-brand" href="/about">eClinic</a>
 	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -34,7 +34,7 @@
 	          <li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
 	          <!-- <li class="nav-item"><a href="#department-section" class="nav-link"><span>Department</span></a></li> -->
 	          <!-- <li class="nav-item"><a href="#doctor-section" class="nav-link"><span>Doctors</span></a></li> -->
-	          <li class="nav-item"><a href="#" class="nav-link"><span>Blog</span></a></li>
+	          <!-- <li class="nav-item"><a href="#" class="nav-link"><span>Blog</span></a></li> -->
 			  <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
 			  <li class="nav-item"><a href="{{ route('login') }}" class="nav-link"><span>Login</span></a></li>
               <li class="nav-item"><a href="{{ route('register') }}" class="nav-link"><span>Register</span></a></li>
@@ -143,7 +143,11 @@
 	    				<div class="row justify-content-start pb-3">
 			          <div class="col-md-12 heading-section ftco-animate p-4 p-lg-5">
 			            <h2 class="mb-4">We Are <span>eClinic</span> keeps your medical details at your finger tip. </h2>
-			            <p style="text-align: justify;">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+			            <p style="text-align: justify;">“eClinic” is a platform which helps patients to maintain their medical records.
+                            It helps to store medical records and allow to view and update those medical records of a
+                           specific a person to authorized parties.<br><br>
+                           Patients, doctors, hospitals, and laboratories will be interacting with our website. Sri Lankan Medical Council and 
+                           the Ministry of health will help us to verify the registered Doctors, Hospitals and Laboratories</p>
 			            <p><a href="#contact-section" class="btn btn-secondary py-3 px-4">Contact us</a></p>
 			          </div>
 			        </div>
@@ -527,7 +531,7 @@
           			<span class="icon-map-signs"></span>
           		</div>
           		<h3 class="mb-4">Address</h3>
-	            <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+	            <p></p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -536,7 +540,7 @@
           			<span class="icon-phone2"></span>
           		</div>
           		<h3 class="mb-4">Contact Number</h3>
-	            <p><a href="tel://1234567920">+ 1235 2355 98</a></p>
+	            <p><a href="tel://1234567920">+94 71 1323 563</a></p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -545,7 +549,7 @@
           			<span class="icon-paper-plane"></span>
           		</div>
           		<h3 class="mb-4">Email Address</h3>
-	            <p><a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+	            <p><a href="mailto:info@yoursite.com">hchithwara@gmail.com</a></p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -554,61 +558,12 @@
           			<span class="icon-globe"></span>
           		</div>
           		<h3 class="mb-4">Website</h3>
-	            <p><a href="#">yoursite.com</a></p>
+	            <p><a href="#">www.eClinic.com</a></p>
 	          </div>
           </div>
         </div>
         <div class="row no-gutters block-9">
-          <div class="col-md-6 order-md-last d-flex">
-              <form action="FeedbackServlet" method="POST" class="bg-light p-5 contact-form">
-                
-                  <%
-                    String error = (String)session.getAttribute("error");
-                    String success =(String)session.getAttribute("success");
-                    if(error != null)
-                    {%>
-                        <div class='alert alert-danger alert-dismissible'>
-                        <button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;</button>
-                        <h4><i class='icon fa fa-warning'></i> Error!</h4>
-                        <p><%=error%></p>
-                        </div>
-                    <%
-                    session.removeAttribute("error");
-                    }
-                    if(success != null)
-                    {%>
-                    <div class='alert alert-success alert-dismissible'>
-                        <button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;</button>
-                        <h4><i class='icon fa fa-check'></i> Success!</h4>
-                        <p><%=success%></p>
-                        </div>
-                    <%
-                    session.removeAttribute("success");
-                    }
-                    %>
-                
-              <div class="form-group">
-                <input class="form-control" type="text" placeholder="Name" name="name" required>
-              </div>
-              <div class="form-group">
-                <input class="form-control" type="email" placeholder="Email" name="email" required>
-              </div>
-              <div class="form-group">
-                <input class="form-control" type="text" placeholder="Subject" name="subject" required>
-              </div>
-              <div class="form-group">
-                <input class="form-control"  type="text" placeholder="Message" name="message" required>
-              </div>
-              <div class="form-group" >
-                <input type="submit" value="Send Message" class="btn btn-secondary py-3 px-5">
-              </div>
-            </form>
           
-          </div>
-
-          <div class="col-md-6 d-flex">
-          	<div id="map" class="bg-white"></div>
-          </div>
         </div>
       </div>
     </section>

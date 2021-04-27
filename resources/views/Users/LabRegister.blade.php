@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">{{ __('Laboratory Register') }}</div>
+                <div class="card-header">{{ __('Laboratory Registration') }}</div>
 
                 <div class="card-body">
                     <form method="POST" action="submitlab" enctype="multipart/form-data">
