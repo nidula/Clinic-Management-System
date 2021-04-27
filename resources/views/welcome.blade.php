@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
+	
 </head>
 
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
@@ -182,7 +183,7 @@
 			            <div class="media block-6 services d-flex">
 			              <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-doctor"></span></div>
 			              <div class="media-body pl-md-4">
-			                <h3 class="heading mb-3">Qualified Doctors</h3>
+			                <h3 class="heading mb-3">Quality Medical Service</h3>
 			                <p>Retrieving and maintaining patient history</p>
 			              </div>
 			            </div>      
@@ -353,7 +354,7 @@
 									<ul class="ftco-social text-center">
 		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
 		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+		                <!-- <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li> -->
 		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
 		              </ul>
 		              <!--<p><a href="#" class="btn btn-primary">Book now</a></p>-->
@@ -374,7 +375,7 @@
 									<ul class="ftco-social text-center">
 		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
 		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+		                <!-- <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li> -->
 		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
 		              </ul>
 		              <!--<p><a href="#" class="btn btn-primary">Book now</a></p>-->
@@ -395,7 +396,7 @@
 									<ul class="ftco-social text-center">
 		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
 		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+		                <!-- <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li> -->
 		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
 		              </ul>
 		              <!--<p><a href="#" class="btn btn-primary">Book now</a></p>-->
@@ -416,7 +417,7 @@
 									<ul class="ftco-social text-center">
 		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
 		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+		                <!-- <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li> -->
 		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
 		              </ul>
 		              <!--<p><a href="#" class="btn btn-primary">Book now</a></p>-->
@@ -448,8 +449,8 @@
                     </span>
                   </div>
                   <div class="text px-4">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Jeff Freshman</p>
+                    <p class="mb-4">They may forget your name, but they will never forget how you made them feel.</p>
+                    <p class="name">Ashen Palihakkara</p>
                     <span class="position">Patients</span>
                   </div>
                 </div>
@@ -462,8 +463,8 @@
                     </span>
                   </div>
                   <div class="text px-4">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Jeff Freshman</p>
+                    <p class="mb-4">You treat a disease, you win, you lose. You treat a person, I guarantee you, you’ll win, no matter what the outcome.</p>
+                    <p class="name">Pasan Erathna</p>
                     <span class="position">Patients</span>
                   </div>
                 </div>
@@ -476,36 +477,36 @@
                     </span>
                   </div>
                   <div class="text px-4">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Jeff Freshman</p>
+                    <p class="mb-4">It doesn’t take an instant more, or cost a penny more, to be empathetic than it does to be indifferent.</p>
+                    <p class="name">Dasuni Hansana</p>
                     <span class="position">Patients</span>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="testimony-wrap text-center py-4 pb-5">
-                  <div class="user-img" style="background-image: url(images/person_1.jpg)">
+                  <div class="user-img" style="background-image: url(images/person_4.jpg)">
                     <span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
                   </div>
                   <div class="text px-4">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Jeff Freshman</p>
+                    <p class="mb-4">Kind words can be short and easy to speak, but their echos are truly endless.</p>
+                    <p class="name">Dilitha Ranjuna</p>
                     <span class="position">Patients</span>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="testimony-wrap text-center py-4 pb-5">
-                  <div class="user-img" style="background-image: url(images/person_3.jpg)">
+                  <div class="user-img" style="background-image: url(images/person_5.jpg)">
                     <span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
                   </div>
                   <div class="text px-4">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Jeff Freshman</p>
+                    <p class="mb-4">Good customer service costs less than bad customer service.</p>
+                    <p class="name">Lohan Dewasurendra</p>
                     <span class="position">Patients</span>
                   </div>
                 </div>
@@ -521,7 +522,6 @@
       	<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
             <h2 class="mb-4">Contact Us</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
           </div>
         </div>
         <div class="row d-flex contact-info mb-5">
@@ -531,7 +531,7 @@
           			<span class="icon-map-signs"></span>
           		</div>
           		<h3 class="mb-4">Address</h3>
-	            <p></p>
+	            <p style=color:#000;>1D F3 U8, Ariyana Apartments, Annasiwatta Road, Athurugiriya.</p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -540,7 +540,7 @@
           			<span class="icon-phone2"></span>
           		</div>
           		<h3 class="mb-4">Contact Number</h3>
-	            <p><a href="tel://1234567920">+94 71 1323 563</a></p>
+	            <p><a href="tel://+94 71 1323 563">+94 71 1323 563</a></p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -548,8 +548,8 @@
           		<div class="icon d-flex align-items-center justify-content-center">
           			<span class="icon-paper-plane"></span>
           		</div>
-          		<h3 class="mb-4">Email Address</h3>
-	            <p><a href="mailto:info@yoursite.com">hchithwara@gmail.com</a></p>
+          		<h3 class="mb-4">Email Address</h3>	
+	            <p><a href="hchithwara@gmail.com">hchithwara@gmail.com</a></p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
