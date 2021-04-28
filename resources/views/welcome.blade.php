@@ -33,7 +33,7 @@
 	        <ul class="navbar-nav nav ml-auto">
 	          <li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
 	          <li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
-	          <!-- <li class="nav-item"><a href="#department-section" class="nav-link"><span>Department</span></a></li> -->
+	          <li class="nav-item"><a href="#department-section" class="nav-link"><span>Department</span></a></li>
 	          <!-- <li class="nav-item"><a href="#doctor-section" class="nav-link"><span>Doctors</span></a></li> -->
 	          <!-- <li class="nav-item"><a href="#" class="nav-link"><span>Blog</span></a></li> -->
 			  <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
@@ -347,15 +347,15 @@
 								<div class="img align-self-stretch" style="background-image: url(images/doc-1.jpg);"></div>
 							</div>
 							<div class="text pt-3 text-center">
-								<h3 class="mb-2">Dr. Lloyd Wilson</h3>
+								<h3 class="mb-2">Dr. Naduni Erathna</h3>
 								<span class="position mb-2">Neurologist</span>
 								<div class="faded">
-									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+									<p>Care and dedication is the driving force behind our work.</p>
 									<ul class="ftco-social text-center">
 		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate"><a href="https://www.facebook.com/naduni.erathna" target="_blank"><span class="icon-facebook"></span></a></li>
 		                <!-- <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li> -->
-		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+		                <li class="ftco-animate"><a href="https://www.instagram.com/nadunierathna/" target="_blank"><span class="icon-instagram"></span></a></li>
 		              </ul>
 		              <!--<p><a href="#" class="btn btn-primary">Book now</a></p>-->
 	              </div>
@@ -368,15 +368,15 @@
 								<div class="img align-self-stretch" style="background-image: url(images/doc-2.jpg);"></div>
 							</div>
 							<div class="text pt-3 text-center">
-								<h3 class="mb-2">Dr. Rachel Parker</h3>
+								<h3 class="mb-2">Dr. Nidula Chithwara</h3>
 								<span class="position mb-2">Ophthalmologist</span>
 								<div class="faded">
-									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+									<p>Total care, each day each minute, each second even every moment.</p>
 									<ul class="ftco-social text-center">
 		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate"><a href="https://www.facebook.com/nidula.chithwara/" target="_blank"><span class="icon-facebook"></span></a></li>
 		                <!-- <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li> -->
-		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+		                <li class="ftco-animate"><a href="https://www.instagram.com/__nidda__99/" target="_blank"><span class="icon-instagram"></span></a></li>
 		              </ul>
 		              <!--<p><a href="#" class="btn btn-primary">Book now</a></p>-->
 	              </div>
@@ -389,15 +389,15 @@
 								<div class="img align-self-stretch" style="background-image: url(images/doc-3.jpg);"></div>
 							</div>
 							<div class="text pt-3 text-center">
-								<h3 class="mb-2">Dr. Ian Smith</h3>
+								<h3 class="mb-2">Dr. Nipunika Nagahawatta</h3>
 								<span class="position mb-2">Dentist</span>
 								<div class="faded">
-									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+									<p>Our mission is to provide good health for everybody.</p>
 									<ul class="ftco-social text-center">
 		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate"><a href="https://www.facebook.com/nipunika.nagahawatta" target="_blank"><span class="icon-facebook"></span></a></li>
 		                <!-- <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li> -->
-		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+		                <li class="ftco-animate"><a href="https://www.instagram.com/nipunikan_99/" target="_blank"><span class="icon-instagram"></span></a></li>
 		              </ul>
 		              <!--<p><a href="#" class="btn btn-primary">Book now</a></p>-->
 	              </div>
@@ -410,15 +410,15 @@
 								<div class="img align-self-stretch" style="background-image: url(images/doc-4.jpg);"></div>
 							</div>
 							<div class="text pt-3 text-center">
-								<h3 class="mb-2">Dr. Alicia Henderson</h3>
+								<h3 class="mb-2">Dr. Supipi Roshanka</h3>
 								<span class="position mb-2">Pediatrician</span>
 								<div class="faded">
-									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+									<p>Your health must your priority otherwise it will be a hindrance in your path.</p>
 									<ul class="ftco-social text-center">
 		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate"><a href="https://www.facebook.com/supipi.roshanka" target="_blank"><span class="icon-facebook"></span></a></li>
 		                <!-- <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li> -->
-		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+		                <li class="ftco-animate"><a href="https://www.instagram.com/roshu_._/" target="_blank"><span class="icon-instagram"></span></a></li>
 		              </ul>
 		              <!--<p><a href="#" class="btn btn-primary">Book now</a></p>-->
 	              </div>
@@ -575,11 +575,11 @@
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Mediplus</h2>
-              <p>Far far away, behind the word mountains, far from the countries.</p>
+              <p>The art of medicine consists of amusing the patient while nature cures the disease.</p>
               <ul class="ftco-footer-social list-unstyled mt-5">
-                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="https://twitter.com/chithwara" target="_blank"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.facebook.com/nidula.chithwara/" target="_blank"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.instagram.com/__nidda__99/" target="_blank"><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
           </div>
@@ -600,13 +600,10 @@
             <div class="ftco-footer-widget mb-4 ml-md-4">
               <h2 class="ftco-heading-2">Links</h2>
               <ul class="list-unstyled">
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Departments</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Doctors</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Blog</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Pricing</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
+                <li><a href="#home-section"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
+                <li><a href="#about-section"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
+                <li><a href="#department-section"><span class="icon-long-arrow-right mr-2"></span>Departments</a></li>
+                <li><a href="#contact-section"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
               </ul>
             </div>
           </div>
@@ -614,10 +611,10 @@
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Services</h2>
               <ul class="list-unstyled">
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Emergency Services</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Qualified Doctors</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Outdoors Checkup</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>24 Hours Services</a></li>
+                <li style=color:#217dff;><span class="icon-long-arrow-right mr-2"></span>Emergency Services</li>
+                <li style=color:#217dff;><span class="icon-long-arrow-right mr-2"></span>Qualified Doctors</li>
+                <li style=color:#217dff;><span class="icon-long-arrow-right mr-2"></span>Outdoors Checkup</li>
+                <li style=color:#217dff;><span class="icon-long-arrow-right mr-2"></span>24 Hours Services</li>
               </ul>
             </div>
           </div>
@@ -626,9 +623,9 @@
             	<h2 class="ftco-heading-2">Have a Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope pr-4"></span><span class="text">info@yourdomain.com</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">1D F3 U8, Ariyana Apartments, Annasiwatta Road, Athurugiriya.</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+94 71 1323 563</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope pr-4"></span><span class="text">hchithwara@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
