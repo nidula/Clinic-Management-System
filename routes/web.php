@@ -17,8 +17,36 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('about', function () {
-    return view('About');
+Route::get('nurology', function () {
+    return view('Nurology');
+});
+
+Route::get('cardiology', function () {
+    return view('Cardiology');
+});
+
+Route::get('dental', function () {
+    return view('Dental');
+});
+
+Route::get('nuclear', function () {
+    return view('Nuclear');
+});
+
+Route::get('opthalmology', function () {
+    return view('Opthalmology');
+});
+
+Route::get('surgical', function () {
+    return view('Surgical');
+});
+
+Route::get('traumatology', function () {
+    return view('Traumatology');
+});
+
+Route::get('xray', function () {
+    return view('Xray');
 });
 
 Route::get('Memdoc','ViewController@Doc');

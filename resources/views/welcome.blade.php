@@ -243,7 +243,7 @@
     								<div class="icon">
     									<span class="flaticon-stethoscope"></span>
     								</div>
-    								<h3><a href="#">Neurology</a></h3>
+    								<h3><a href="/nurology">Neurology</a></h3>
     								<p>Far far away, behind the word mountains</p>
     							</div>
     						</div>
