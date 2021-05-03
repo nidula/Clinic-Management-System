@@ -238,6 +238,7 @@
     			<div class="col-md-8">
     				<div class="row no-gutters">
     					<div class="col-md-4">
+							<a href="/nurology">
     						<div class="department-wrap p-4 ftco-animate">
     							<div class="text p-2 text-center">
     								<div class="icon">
@@ -247,84 +248,91 @@
     								
     							</div>
     						</div>
+							</a>
+							<a href="surgical">
     						<div class="department-wrap p-4 ftco-animate">
     							<div class="text p-2 text-center">
     								<div class="icon">
     									<span class="flaticon-stethoscope"></span>
     								</div>
-    								<h3><a href="surgical">Surgical</a></h3>
-    								
+    								<h3><a href="surgical">Surgical</a></h3>  								
     							</div>
     						</div>
+							</a>
+							<a href="dental">
     						<div class="department-wrap p-4 ftco-animate">
     							<div class="text p-2 text-center">
     								<div class="icon">
     									<span class="flaticon-stethoscope"></span>
     								</div>
-    								<h3><a href="dental">Dental</a></h3>
-    								
+    								<h3><a href="dental">Dental</a></h3>   								
     							</div>
     						</div>
+							</a>
     					</div>
-
+						<a href="opthalmology">
     					<div class="col-md-4">
     						<div class="department-wrap p-4 ftco-animate">
     							<div class="text p-2 text-center">
     								<div class="icon">
     									<span class="flaticon-stethoscope"></span>
     								</div>
-    								<h3><a href="opthalmology">Opthalmology</a></h3>
-    								
+    								<h3><a href="opthalmology">Opthalmology</a></h3>  								
     							</div>
     						</div>
+							</a>
+							<a href="cardiology">
     						<div class="department-wrap p-4 ftco-animate">
     							<div class="text p-2 text-center">
     								<div class="icon">
     									<span class="flaticon-stethoscope"></span>
     								</div>
-    								<h3><a href="cardiology">Cardiology</a></h3>
-    								
+    								<h3><a href="cardiology">Cardiology</a></h3> 								
     							</div>
     						</div>
+							</a>
+							<a href="traumatology">
     						<div class="department-wrap p-4 ftco-animate">
     							<div class="text p-2 text-center">
     								<div class="icon">
     									<span class="flaticon-stethoscope"></span>
     								</div>
-    								<h3><a href="traumatology">Traumatology</a></h3>
-    								
+    								<h3><a href="traumatology">Traumatology</a></h3>								
     							</div>
     						</div>
+							</a>
     					</div>
-
+						<a href="rheumatology">
     					<div class="col-md-4">
     						<div class="department-wrap p-4 ftco-animate">
     							<div class="text p-2 text-center">
     								<div class="icon">
     									<span class="flaticon-stethoscope"></span>
     								</div>
-    								<h3><a href="rheumatology">Rheumatology</a></h3>
-    								
+    								<h3><a href="rheumatology">Rheumatology</a></h3> 								
     							</div>
     						</div>
+							</a>
+							<a href="xray">
     						<div class="department-wrap p-4 ftco-animate">
     							<div class="text p-2 text-center">
     								<div class="icon">
     									<span class="flaticon-stethoscope"></span>
     								</div>
     								<h3><a href="xray">X-ray</a></h3>
-    								
     							</div>
     						</div>
+							</a>
+							<a href="dermatology">
     						<div class="department-wrap p-4 ftco-animate">
     							<div class="text p-2 text-center">
     								<div class="icon">
     									<span class="flaticon-stethoscope"></span>
     								</div>
-    								<h3><a href="dermatology">Dermatology</a></h3>
-    								
+    								<h3><a href="dermatology">Dermatology</a></h3>	
     							</div>
     						</div>
+							</a>
     					</div>
     				</div>
     			</div>
@@ -549,7 +557,7 @@
           			<span class="icon-paper-plane"></span>
           		</div>
           		<h3 class="mb-4">Email Address</h3>	
-	            <p><a href="hchithwara@gmail.com">hchithwara@gmail.com</a></p>
+	            <p><a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=CllgCJZWPrddRlTjdsPxBJxrCtkQslgDwQFGDxKpfTMwjpMWNWpMfkzzLkFKNgFBgNDSQjQRfPL" target=_blank>hchithwara@gmail.com</a></p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -587,12 +595,15 @@
             <div class="ftco-footer-widget mb-4 ml-md-4">
               <h2 class="ftco-heading-2">Departments</h2>
               <ul class="list-unstyled">
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Neurology</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Opthalmology</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Nuclear Magnetic</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Surgical</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Cardiology</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Dental</a></li>
+                <li><a href="nurology"><span class="icon-long-arrow-right mr-2"></span>Neurology</a></li>
+                <li><a href="opthalmology"><span class="icon-long-arrow-right mr-2"></span>Opthalmology</a></li>
+                <li><a href="rheumatology"><span class="icon-long-arrow-right mr-2"></span>Rheumatology</a></li>
+                <li><a href="surgical"><span class="icon-long-arrow-right mr-2"></span>Surgical</a></li>
+                <li><a href="cardiology"><span class="icon-long-arrow-right mr-2"></span>Cardiology</a></li>
+                <li><a href="dental"><span class="icon-long-arrow-right mr-2"></span>Dental</a></li>
+				<li><a href="xray"><span class="icon-long-arrow-right mr-2"></span>X-Ray</a></li>
+				<li><a href="traumatology"><span class="icon-long-arrow-right mr-2"></span>Traumatology</a></li>
+				<li><a href="dermatology"><span class="icon-long-arrow-right mr-2"></span>Dermatology</a></li>
               </ul>
             </div>
           </div>
@@ -624,8 +635,8 @@
             	<div class="block-23 mb-3">
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">1D F3 U8, Ariyana Apartments, Annasiwatta Road, Athurugiriya.</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+94 71 1323 563</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope pr-4"></span><span class="text">hchithwara@gmail.com</span></a></li>
+	                <li><a href="tel://+94 71 1323 563"><span class="icon icon-phone"></span><span class="text">+94 71 1323 563</span></a></li>
+	                <li><a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=CllgCJZWPrddRlTjdsPxBJxrCtkQslgDwQFGDxKpfTMwjpMWNWpMfkzzLkFKNgFBgNDSQjQRfPL" target="_blank"	><span class="icon icon-envelope pr-4"></span><span class="text">hchithwara@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
