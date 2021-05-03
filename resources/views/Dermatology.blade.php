@@ -44,8 +44,9 @@
           <div class="col-md-6 pt-5 ftco-animate">
           	<div class="mt-5">
           		<!-- <span class="subheading">Welcome to Mediplus</span> -->
-	            <h1 class="mb-4">Dental</h1>
-	            <p class="mb-4" style="text-align: justify; color: #000">Dental health is another way of saying oral health or the health of your mouth. The mouth is a window into the health of your body. It can show signs of nutritional deficiencies or general infection. Systemic diseases, those that affect the entire body, may first become apparent because of mouth lesions or other oral problems. Many people believe that they need to see a dentist only if they are in pain or think something is wrong, but regular dental visits can contribute to a lifetime of good oral health. You can practice good oral hygiene by always brushing your teeth twice a day with a fluoride toothpaste, cleaning between your teeth once a day with floss or another interdental cleaner, replacing your toothbrush every three or four months and by eating a balanced diet and limiting between-meal snacks. Don't forget to schedule regular dental check-ups to keep your smile, and yourself, healthy.</p>
+	            <h1 class="mb-4">Dermatology</h1>
+	            <p class="mb-4" style="text-align: justify; color: #000">Dermatology involves the study, research, diagnosis, and management of any health conditions that may affect the skin, fat hair, nails, and membranes. A dermatologist is the health professional who specializes in this area of healthcare.</p>
+              <p class="mb-4" style="text-align: justify; color: #000">The skin is the largest organ of the body, which acts as a barrier to protect the internal organs from injury and bacteria. It is also a good indicator of the overall health of the body, making the field of dermatology important in the diagnosis and management of many health conditions. Conditions of the hair, skin, or nails are very common and almost everyone experiences symptoms of one or other dermatologic condition at some point in their life. In fact, approximately one in six of all visits to a general practitioner involves a problem of the skin.</p>
 	            <!-- <p><a href="#" class="btn btn-primary py-3 px-4">Make an appointment</a></p> -->
             </div>
           </div>

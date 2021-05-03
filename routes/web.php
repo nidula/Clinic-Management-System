@@ -29,8 +29,8 @@ Route::get('dental', function () {
     return view('Dental');
 });
 
-Route::get('nuclear', function () {
-    return view('Nuclear');
+Route::get('rheumatology', function () {
+    return view('Rheumatology');
 });
 
 Route::get('opthalmology', function () {
@@ -41,12 +41,16 @@ Route::get('surgical', function () {
     return view('Surgical');
 });
 
-Route::get('traumatology', function () {
+Route::get('traumatology', function () {  
     return view('Traumatology');
 });
 
 Route::get('xray', function () {
-    return view('Xray');
+    return view('X-ray');
+});
+
+Route::get('dermatology', function () {
+    return view('Dermatology');
 });
 
 Route::get('Memdoc','ViewController@Doc');

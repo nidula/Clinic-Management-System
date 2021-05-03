@@ -244,7 +244,7 @@
     									<span class="flaticon-stethoscope"></span>
     								</div>
     								<h3><a href="/nurology">Neurology</a></h3>
-    								<p>Far far away, behind the word mountains</p>
+    								
     							</div>
     						</div>
     						<div class="department-wrap p-4 ftco-animate">
@@ -252,8 +252,8 @@
     								<div class="icon">
     									<span class="flaticon-stethoscope"></span>
     								</div>
-    								<h3><a href="#">Surgical</a></h3>
-    								<p>Far far away, behind the word mountains</p>
+    								<h3><a href="surgical">Surgical</a></h3>
+    								
     							</div>
     						</div>
     						<div class="department-wrap p-4 ftco-animate">
@@ -261,38 +261,8 @@
     								<div class="icon">
     									<span class="flaticon-stethoscope"></span>
     								</div>
-    								<h3><a href="#">Dental</a></h3>
-    								<p>Far far away, behind the word mountains</p>
-    							</div>
-    						</div>
-    					</div>
-
-    					<div class="col-md-4">
-    						<div class="department-wrap p-4 ftco-animate">
-    							<div class="text p-2 text-center">
-    								<div class="icon">
-    									<span class="flaticon-stethoscope"></span>
-    								</div>
-    								<h3><a href="#">Opthalmology</a></h3>
-    								<p>Far far away, behind the word mountains</p>
-    							</div>
-    						</div>
-    						<div class="department-wrap p-4 ftco-animate">
-    							<div class="text p-2 text-center">
-    								<div class="icon">
-    									<span class="flaticon-stethoscope"></span>
-    								</div>
-    								<h3><a href="#">Cardiology</a></h3>
-    								<p>Far far away, behind the word mountains</p>
-    							</div>
-    						</div>
-    						<div class="department-wrap p-4 ftco-animate">
-    							<div class="text p-2 text-center">
-    								<div class="icon">
-    									<span class="flaticon-stethoscope"></span>
-    								</div>
-    								<h3><a href="#">Traumatology</a></h3>
-    								<p>Far far away, behind the word mountains</p>
+    								<h3><a href="dental">Dental</a></h3>
+    								
     							</div>
     						</div>
     					</div>
@@ -303,8 +273,8 @@
     								<div class="icon">
     									<span class="flaticon-stethoscope"></span>
     								</div>
-    								<h3><a href="#">Nuclear Magnetic</a></h3>
-    								<p>Far far away, behind the word mountains</p>
+    								<h3><a href="opthalmology">Opthalmology</a></h3>
+    								
     							</div>
     						</div>
     						<div class="department-wrap p-4 ftco-animate">
@@ -312,8 +282,8 @@
     								<div class="icon">
     									<span class="flaticon-stethoscope"></span>
     								</div>
-    								<h3><a href="#">X-ray</a></h3>
-    								<p>Far far away, behind the word mountains</p>
+    								<h3><a href="cardiology">Cardiology</a></h3>
+    								
     							</div>
     						</div>
     						<div class="department-wrap p-4 ftco-animate">
@@ -321,8 +291,38 @@
     								<div class="icon">
     									<span class="flaticon-stethoscope"></span>
     								</div>
-    								<h3><a href="#">Cardiology</a></h3>
-    								<p>Far far away, behind the word mountains</p>
+    								<h3><a href="traumatology">Traumatology</a></h3>
+    								
+    							</div>
+    						</div>
+    					</div>
+
+    					<div class="col-md-4">
+    						<div class="department-wrap p-4 ftco-animate">
+    							<div class="text p-2 text-center">
+    								<div class="icon">
+    									<span class="flaticon-stethoscope"></span>
+    								</div>
+    								<h3><a href="rheumatology">Rheumatology</a></h3>
+    								
+    							</div>
+    						</div>
+    						<div class="department-wrap p-4 ftco-animate">
+    							<div class="text p-2 text-center">
+    								<div class="icon">
+    									<span class="flaticon-stethoscope"></span>
+    								</div>
+    								<h3><a href="xray">X-ray</a></h3>
+    								
+    							</div>
+    						</div>
+    						<div class="department-wrap p-4 ftco-animate">
+    							<div class="text p-2 text-center">
+    								<div class="icon">
+    									<span class="flaticon-stethoscope"></span>
+    								</div>
+    								<h3><a href="dermatology">Dermatology</a></h3>
+    								
     							</div>
     						</div>
     					</div>
