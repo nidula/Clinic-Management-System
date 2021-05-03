@@ -84,7 +84,7 @@
                             <label for="specification" class="col-md-4 col-form-label text-md-right">{{ __('Specification') }}</label>
 
                             <div class="col-md-6">
-                                <input id="specification" type="text" class="form-control" name="specification" value="{{$doctor->address}}" required autocomplete="specification" autofocus>
+                                <input id="specification" type="text" class="form-control" name="specification" value="{{$doctor->specification}}" required autocomplete="specification" autofocus>
                             </div>
                         </div>
 
