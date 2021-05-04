@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div style="background-image: url('Logo/bac1.jpg');">
+<div style="background-image: url('Logo/bac2.jpg');  background-attachment: fixed;">
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">

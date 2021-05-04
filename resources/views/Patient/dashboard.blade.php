@@ -33,7 +33,7 @@
                 <table class="table">
         <thead>
           <tr>
-            <th scope="col">#</th>
+            <th scope="col">Id</th>
             <th scope="col">Doctor's Name</th>
             <th scope="col">Topic</th>
             <th scope="col">Date/Time</th>
@@ -80,7 +80,7 @@
                 <table class="table">
         <thead>
           <tr>
-            <th scope="col">#</th>
+            <th scope="col">Id</th>
             <th scope="col">Topic</th>
             <th scope="col">Date/Time</th>
             <th scope="col">Hide</th>
