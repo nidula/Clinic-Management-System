@@ -14,7 +14,7 @@
                         <div class="form-group row justify-content-center">
                             <img src="/logo/person.png" class="w-50">
                        </div>
-                       <input id="image" type="file" class="form-control col-md-4 float-right" name="image" value="{{$lab->image}}" required autocomplete="image" autofocus><br><br>
+                       <input id="image" type="file" class="form-control col-md-4 float-right" name="image" value="{{$lab->image}}" required autocomplete="image" autofocus><br><br>/
 
                         <div class="form-group row">
                             <label for="name" class="col-md-4 col-form-label text-md-right">{{ __('Name') }}</label>
