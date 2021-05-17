@@ -147,6 +147,7 @@ class ReportController extends Controller
         return $report_files;
 
     }
+    
     public function patientrephide($id)
     {
         DB::table('reports')
@@ -155,6 +156,7 @@ class ReportController extends Controller
         
         return redirect("/Patient");
     }
+  
     public function patientrepunhide($id)
     {
         DB::table('reports')

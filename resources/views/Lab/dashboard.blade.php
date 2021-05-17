@@ -44,7 +44,7 @@
                             <label for="file" class="col-md-4 col-form-label text-md-right">{{ __("Reports") }}</label>
 
                             <div class="col-md-6">
-                            <input id="file" type="file" class="form-control" name="file">
+                            <input id="file" type="file" class="form-control" name="file" required>
                             </div>
                         </div>
                         
